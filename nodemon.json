@@ -1,0 +1,5 @@
+{
+   "env": {
+      "MONGODB_URI": "mongodb+srv://johnsiner:johnsiner16@cluster0.vnwiykh.mongodb.net/shop?retryWrites=true&w=majority"
+   }
+}
