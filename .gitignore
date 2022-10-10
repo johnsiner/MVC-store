@@ -6,6 +6,8 @@ node_modules
 /.pnp
 .pnp.js
 nodemon.json
+server.cert
+-server.key
 
 # testing
 /coverage
